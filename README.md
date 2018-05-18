@@ -53,6 +53,9 @@ You may need the possibility for the user to OptOut from Matomo analytics. In th
 2. OptOut-Iframe on a specific page
 	If you need the OptOut-Iframe only on a specific page you can add a widget to your main content. 
 
+	**Note:** _The Iframe is maybe hidden. If this happens, in your browser is already activated the DoNotTrack-Option and the Iframe is automatically hidden by the browser. This is not a bug in the extension._
+
+
 ### License
 Code released under the [MIT licence](http://opensource.org/licenses/MIT).
 
