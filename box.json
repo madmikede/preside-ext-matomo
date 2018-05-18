@@ -6,7 +6,6 @@
     "homepage": "https://github.com/madmikede/preside-ext-matomo.git",
     "documentation": "https://github.com/madmikede/preside-ext-matomo.git",
     "type":"preside-extensions",
-    "location":"https://github.com/madmikede/preside-ext-matomo/archive/v0.1.0.zip",
     "repository":{
         "type":"git",
         "URL": "https://github.com/madmikede/preside-ext-matomo.git"
