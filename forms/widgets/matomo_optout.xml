@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.matomo_optout:">
+	<tab id="matomooptout" title="matomooptout.tab.title">
+		<fieldset id="matomooptout">
+		</fieldset>
+	</tab>
+</form>

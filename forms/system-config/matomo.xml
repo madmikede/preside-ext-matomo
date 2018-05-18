@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="system-config.matomo:">
+	<tab id="matomo" title="matomo.tab.title">
+		<fieldset id="matomo">
+			<field name="is_active"          control="yesnoswitch"        required="false" label="system-config.matomo:is_active.label"          help="system-config.matomo:is_active.help"                               />
+			<field name="servername"         control="textinput"          required="true"  label="system-config.matomo:servername.label"         help="system-config.matomo:servername.help"                              />
+			<field name="siteid"             control="textinput"          required="true"  label="system-config.matomo:siteid.label"             help="system-config.matomo:siteid.help"                                  />
+		</fieldset>
+		<fieldset id="matomooptout">
+			<field name="optout_fontcolor"   control="simpleColourPicker" required="false" label="system-config.matomo:optout_fontcolor.label"   help="system-config.matomo:optout_fontcolor.help"     default="000000"   />
+			<field name="optout_bgcolor"     control="simpleColourPicker" required="false" label="system-config.matomo:optout_bgcolor.label"     help="system-config.matomo:optout_bgcolor.help"       default=""   />
+			<field name="optout_fontsize"    control="textinput"          required="false" label="system-config.matomo:optout_fontsize.label"    help="system-config.matomo:optout_fontsize.help"                         />
+			<field name="optout_fontfamily"  control="textinput"          required="false" label="system-config.matomo:optout_fontfamily.label"  help="system-config.matomo:optout_fontfamily.help" />			
+			<field name="optout_language"    control="select"             required="false" label="system-config.matomo:optout_language.label"    help="system-config.matomo:optout_language.help"      values="en,de,fr,it,es" labels="en,de,fr,it,es"  />
+		</fieldset>
+	</tab>
+</form>

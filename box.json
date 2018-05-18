@@ -1,0 +1,22 @@
+{
+    "name":"PresideCMS Extension: Matomo",
+    "version":"0.1.0",
+    "author":"Michael Hnat",
+    "directory":"application/extensions",
+    "homepage": "https://github.com/madmikede/preside-ext-matomo.git",
+    "documentation": "https://github.com/madmikede/preside-ext-matomo.git",
+    "type":"preside-extensions",
+    "location":"https://github.com/madmikede/preside-ext-matomo/archive/v0.1.0.zip",
+    "repository":{
+        "type":"git",
+        "URL": "https://github.com/madmikede/preside-ext-matomo.git"
+    },
+    "slug":"preside-ext-matomo",
+    "projectURL":"",
+    "ignore":[
+        ".git/*",
+        ".gitignore",
+        ".twgit_features_subject",
+        ".twgit"
+    ]
+}

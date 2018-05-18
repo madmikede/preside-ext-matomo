@@ -1,0 +1,6 @@
+{
+	  "id"        : "preside-ext-matomo"
+	, "title"     : "Include Matomo/Piwik in PresideCMS"
+	, "author"    : "Michael Hnat"
+	, "version"   : "0.1.0"
+}
